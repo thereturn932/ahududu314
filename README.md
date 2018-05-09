@@ -1,6 +1,7 @@
 # Ahududu 3.14
 This reposity contrains source codes prepared by Ahududu 314 members for Bilkent University ME384 2018 autonomous car project. All source codes in this reposity is licensed by GNU/GPLv3.
-    Copyright (C) 2018  Burak Özen
+   
+   Copyright (C) 2018  Burak Özen
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
